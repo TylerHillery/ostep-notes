@@ -1,0 +1,5 @@
+# my scratch binaries - keep .c/.py/.md, ignore compiled outputs
+cpu-api/p1
+cpu-api/p2
+limited-direct-execution/main
+*.o
