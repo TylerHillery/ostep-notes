@@ -13,7 +13,7 @@
 - [x] Ch. 8 Multi-level Feedback → `homework/cpu-sched-mlfq/README.md` → `mlfq.py`
 
 ## CPU scheduling
-- [ ] `projects/initial-xv6/README.md` + `background.md` → `getreadcount()` in `projects/initial-xv6/src/` → `./test-getreadcount.sh`
+- [x] `projects/initial-xv6/README.md` + `background.md` → `getreadcount()` in `projects/initial-xv6/src/` → `./test-getreadcount.sh`
 - [ ] Ch. 9 Lottery Scheduling → `homework/cpu-sched-lottery/README.md` → `lottery.py`
 - [ ] `projects/scheduling-xv6-lottery/README.md` → implement → graph 3:2:1 tickets
 - [ ] Ch. 10 Multi-CPU Scheduling → `homework/cpu-sched-multi/README.md` → `multi.py`
